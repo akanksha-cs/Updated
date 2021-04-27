@@ -26,3 +26,26 @@ I am Microsoft certified(MTA) MTA Cloud Fundamentals and DYSMECH CONSULTANCY PVT
 - 📫 How to reach me: akankshapatwa24@gmail.com
 
 ### My Tech Stack ⭐
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=Javascript)
+![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=JQuery)
+<br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![C](https://img.shields.io/badge/-gray?style=flat-square&logo=C)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Jupyter](https://img.shields.io/badge/-Jupyter-pink?style=flat-square&logo=Jupyter)
+<br>
+![VScode](https://img.shields.io/badge/-VScode-blue?style=flat-square&logo=VScode)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+
+![Akanksha's github stats](https://github-readme-stats.vercel.app/api?username=akanksha-cs&show_icons=true&hide_border=true)
+
+<hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=akanksha-cs" alt="akanksha-cs"/> </p>
