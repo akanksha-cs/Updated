@@ -23,7 +23,6 @@ I am Microsoft certified(MTA) MTA Cloud Fundamentals and Specialization in IOT D
 - 🛠   I’m currently working with Nodejs, Express, React,
  Mongodb, Javascript, etc.
 - 🔭 I’m currently working on improving my Skills
-- 🌱  I'm on track for learning more about Internet of Things,and Cloud Architecture.
 - 🌱 I’m an engineering student in GLA University, Mathura
 - 💬 Ask me about anything, I am happy to help
 - ✉️  You can shoot me an email at akankshapatwa24@gmail.com I'll try to respond as soon as I can.
