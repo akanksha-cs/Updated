@@ -21,6 +21,7 @@ I am Microsoft certified(MTA) MTA Cloud Fundamentals and Specialization in IOT D
 
 - 👨🏽‍💻 I’m currently learning more about Full Stack Development
 - 🔭 I’m currently working on improving my Skills
+- 🌱  I'm on track for learning more about Internet of Things,and Cloud Architecture.
 - 🌱 I’m an engineering student in GLA University, Mathura
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: akankshapatwa24@gmail.com
